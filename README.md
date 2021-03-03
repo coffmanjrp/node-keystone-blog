@@ -8,7 +8,7 @@ You probably want to add Lists, Authentication, Access control and a front-end a
 
 To run this project first run `npm install`. Note: If you generated this project via the Keystone cli step this has been done for you \\o/.
 
-Once running the Keystone Admin UI is reachable via: `localhost:3000/admin`.
+Once running the Keystone Admin UI is reachable via: `localhost:5000/admin`.
 
 ## Next steps
 
