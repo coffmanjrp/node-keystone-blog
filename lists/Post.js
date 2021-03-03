@@ -12,7 +12,7 @@ const postFields = {
       ],
       defaultValue: 'PUBLISHED',
     },
-    author: { type: Text, isRequired: true },
+    author: { type: Relationship, ref: 'User', many: false, isRequired: true },
   },
 };
 
